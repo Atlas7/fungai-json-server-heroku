@@ -39,5 +39,9 @@
     "chai-as-promised": "^7.1.1",
     "chai-immutable": "^1.6.0",
     "mocha": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Atlas7/fungai-json-server-heroku"
   }
 }
