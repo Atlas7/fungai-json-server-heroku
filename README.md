@@ -4,7 +4,7 @@ We've deployed the API to Heroku at:
 
 [https://fungai-json-server-heroku.herokuapp.com/](https://fungai-json-server-heroku.herokuapp.com/)
 
-# Development Instruction
+## Development Instruction
 
 To run this app locally on a macbook / laptop do the followings:
 
@@ -36,7 +36,7 @@ npm run test
 
 This will run Mocha tests.
 
-# Deploy to Heroku
+## Deploy to Heroku
 
 Use [this really handy guide](https://github.com/Atlas7/json-server-heroku) for tips on deploying to heroku.
 This is a fork to [this original GitHub repository](https://github.com/jesperorb/json-server-heroku).
