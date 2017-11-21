@@ -40,3 +40,8 @@ This will run Mocha tests.
 
 Use [this really handy guide](https://github.com/Atlas7/json-server-heroku) for tips on deploying to heroku.
 This is a fork to [this original GitHub repository](https://github.com/jesperorb/json-server-heroku).
+
+# Realated Apps that consume this API
+
+- [fungai-react-ui](https://github.com/Atlas7/fungai-react-ui): a ReactJS UI prototype for fungai.org (work in progress)
+- etc.
